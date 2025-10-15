@@ -1,0 +1,28 @@
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test output
+test_results/
+*.log
