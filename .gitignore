@@ -1,3 +1,22 @@
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
 # PlatformIO
 .pio
 .vscode/.browse.c_cpp.db*
@@ -17,6 +36,11 @@
 *.swp
 *.swo
 *~
+.DS_Store
+
+# Test output
+test_results/
+*.log
 
 # OS
 .DS_Store
