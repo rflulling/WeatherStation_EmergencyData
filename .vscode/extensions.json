@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.ino": "cpp",
+            "*.h": "c",
+            "*.cpp": "cpp"
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "platformio.platformio-ide"
+        ]
+    }
+}
